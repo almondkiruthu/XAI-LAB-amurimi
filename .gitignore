@@ -22,3 +22,6 @@ media/
 
 # Ml flow
 /mlruns
+
+# Claude code
+.claude/
